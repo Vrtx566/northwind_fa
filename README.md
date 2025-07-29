@@ -1,6 +1,8 @@
-![image.png](attachment:e3795a53-98a8-4b29-9744-0e0e89e72410:image.png)
+
 generar un modelo estrella que cuente con 5 dimensiones y una tabla
 de hechos de la siguiente manera:
+<img width="2048" height="3426" alt="image" src="https://github.com/user-attachments/assets/a612d521-c99b-41f9-85f9-ad25d5f20422" />
+
 
 - Tabla de hechos que contenga el número de orden (order), el costo de la movilización
 (freight), el precio unitario (unit_price), la cantidad de productos (quantity), el valor de
@@ -20,4 +22,6 @@ producto (producto_name), el precio unitario (unit_price) y si está o no descon
 - Tabla de dimensión tiempo cuyo id es una fecha (order_date) y que tenga los campos mes,
 día, año, nombre del mes, nombre del día y trimestre.
 
-![Untitled.png](attachment:bd071fdf-699f-4ca4-b703-8de541b5180b:Untitled.png)
+<img width="1313" height="1135" alt="image" src="https://github.com/user-attachments/assets/a61627c1-0fc8-4377-87f4-197e58a9047e" />
+
+
